@@ -1,0 +1,8 @@
+{
+  "name": "MySQL Codespace",
+  "features": {
+    "ghcr.io/devcontainers/features/mysql-client:1": {}, 
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers/features/node:1": {}
+  }
+}
